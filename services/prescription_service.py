@@ -3,6 +3,7 @@
 # from config.settings import logger
 #
 #
+#djvhvwidjhbdwejqfcjscnjsc
 # def add_prescription(patient_id: int, doctor_id: int, prescription: str, date: str):
 #     """
 #     Adds a new prescription for a patient.
