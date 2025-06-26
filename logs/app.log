@@ -1,0 +1,268 @@
+2025-03-09 04:51:37,619 - INFO - Starting FastAPI server...
+2025-03-09 04:51:44,524 - INFO - API is running.
+2025-03-09 04:52:51,118 - INFO - Patient shalini1 added successfully.
+2025-03-09 04:53:24,561 - INFO - Retrieved patient: 1
+2025-03-09 04:53:46,205 - INFO - Patient 1 deleted successfully.
+2025-03-09 04:54:14,176 - WARNING - Doctor requested non-existing patient 1.
+2025-03-09 04:54:14,176 - ERROR - Error fetching patient 1: 404: Patient not found
+2025-03-09 04:55:05,900 - INFO - Patient shalini23 added successfully.
+2025-03-09 04:55:37,221 - INFO - Retrieved patient: 2
+2025-03-09 04:55:50,044 - INFO - Doctor retrieved patient: 2
+2025-03-09 04:56:21,838 - INFO - Report uploaded for patient 2 at reports/2_sugar_sugar.pdf
+2025-03-09 04:56:39,914 - INFO - Fetched prescriptions for patient 2
+2025-03-09 04:57:08,443 - INFO - API is running.
+2025-03-09 05:01:05,643 - INFO - Starting FastAPI server...
+2025-03-09 05:01:09,394 - INFO - API is running.
+2025-03-09 05:01:54,810 - INFO - Patient meera added successfully.
+2025-03-09 05:02:22,470 - INFO - Retrieved patient: 3
+2025-03-09 05:02:52,791 - INFO - Doctor retrieved patient: 3
+2025-03-09 05:03:27,013 - INFO - Report uploaded for patient 3 at reports/3_sugar_sugar.pdf
+2025-03-09 05:04:01,154 - INFO - Prescription added for patient 3 by doctor 1.
+2025-03-09 05:04:15,889 - INFO - Retrieved prescriptions for patient 3.
+2025-03-09 05:04:30,920 - INFO - API is running.
+2025-03-09 07:56:11,732 - INFO - API is running.
+2025-03-09 07:57:38,347 - INFO - API is running.
+2025-03-09 07:59:35,383 - INFO - Patient siri added successfully.
+2025-03-09 08:00:25,706 - INFO - Retrieved patient: 4
+2025-03-09 08:00:47,489 - INFO - Doctor retrieved patient: 4
+2025-03-09 08:01:15,829 - INFO - Report uploaded for patient 4 at reports/4_bp_sugar.pdf
+2025-03-09 08:01:30,169 - INFO - Fetched prescriptions for patient 4
+2025-03-09 08:08:38,501 - INFO - API is running.
+2025-03-09 08:10:03,769 - INFO - Starting FastAPI server...
+2025-03-09 08:10:07,983 - INFO - API is running.
+2025-03-09 08:10:50,583 - INFO - Patient 'meera01' added successfully.
+2025-03-09 08:11:57,259 - INFO - Patient 5 updated successfully.
+2025-03-09 08:12:13,995 - WARNING - Patient 5 not found.
+2025-03-09 08:12:13,996 - ERROR - Error fetching patient 5: 404: Patient not found
+2025-03-09 08:33:17,245 - INFO - Starting FastAPI server...
+2025-03-09 08:33:20,347 - INFO - API is running.
+2025-03-09 09:00:53,061 - INFO - Starting FastAPI server...
+2025-03-09 09:00:55,774 - INFO - API is running.
+2025-03-09 09:01:58,529 - INFO - Database tables ensured successfully.
+2025-03-09 09:01:58,562 - INFO - Patient 'neha' added successfully.
+2025-03-09 09:36:26,783 - INFO - Database tables created successfully.
+2025-03-09 09:36:26,784 - INFO - Database connected successfully
+2025-03-09 09:36:27,946 - INFO - Starting FastAPI server...
+2025-03-09 09:36:29,438 - INFO - Database tables created successfully.
+2025-03-09 09:36:29,438 - INFO - Database connected successfully
+2025-03-09 09:36:34,982 - INFO - API is running.
+2025-03-09 09:36:55,957 - INFO - Database tables created successfully.
+2025-03-09 09:36:55,957 - INFO - Database connected successfully
+2025-03-09 09:36:55,971 - INFO - Patient 'ravi' added successfully.
+2025-03-09 09:39:15,762 - INFO - Database tables created successfully.
+2025-03-09 09:39:15,762 - INFO - Database connected successfully
+2025-03-09 09:39:16,932 - INFO - Starting FastAPI server...
+2025-03-09 09:39:18,212 - INFO - Database tables created successfully.
+2025-03-09 09:39:18,213 - INFO - Database connected successfully
+2025-03-09 09:39:23,479 - INFO - API is running.
+2025-03-09 09:40:02,045 - INFO - Database tables created successfully.
+2025-03-09 09:40:02,045 - INFO - Database connected successfully
+2025-03-09 09:40:02,061 - INFO - Patient 'hafiv' added successfully.
+2025-03-09 09:40:44,358 - INFO - Database tables created successfully.
+2025-03-09 09:40:44,358 - INFO - Database connected successfully
+2025-03-09 09:40:44,359 - INFO - Retrieved patient: 3
+2025-03-09 09:41:00,902 - INFO - Database tables created successfully.
+2025-03-09 09:41:00,902 - INFO - Database connected successfully
+2025-03-09 09:41:00,902 - WARNING - No reports found for patient 3.
+2025-03-09 09:41:29,261 - INFO - Database tables created successfully.
+2025-03-09 09:41:29,261 - INFO - Database connected successfully
+2025-03-09 09:41:29,261 - ERROR - Error submitting test for patient 3: table reports has no column named report_path
+2025-03-09 09:52:37,591 - INFO - Database tables created successfully.
+2025-03-09 09:52:37,592 - INFO - Database connected successfully
+2025-03-09 09:52:38,803 - INFO - Starting FastAPI server...
+2025-03-09 09:52:40,019 - INFO - Database tables created successfully.
+2025-03-09 09:52:40,019 - INFO - Database connected successfully
+2025-03-09 09:57:38,439 - INFO - Database tables created successfully.
+2025-03-09 09:57:38,439 - INFO - Database connected successfully
+2025-03-09 10:37:59,751 - INFO - Database tables created successfully.
+2025-03-09 10:37:59,751 - INFO - Database connected successfully
+2025-03-09 10:40:24,541 - INFO - Database tables created successfully.
+2025-03-09 10:40:24,541 - INFO - Database connected successfully
+2025-03-09 10:40:25,675 - INFO - Starting FastAPI server...
+2025-03-09 10:40:39,186 - INFO - Database tables created successfully.
+2025-03-09 10:40:39,186 - INFO - Database connected successfully
+2025-03-09 10:40:40,242 - INFO - Starting FastAPI server...
+2025-03-09 10:54:48,997 - INFO - Database tables created successfully.
+2025-03-09 10:54:48,998 - INFO - Database connected successfully
+2025-03-09 12:57:01,237 - INFO - Database tables created successfully.
+2025-03-09 12:57:01,238 - INFO - Database connected successfully
+2025-03-09 13:00:02,887 - INFO - Database tables created successfully.
+2025-03-09 13:00:02,887 - INFO - Database connected successfully
+2025-03-09 13:00:10,882 - INFO - Starting FastAPI server...
+2025-03-09 13:00:12,331 - INFO - Database tables created successfully.
+2025-03-09 13:00:12,332 - INFO - Database connected successfully
+2025-03-09 13:00:25,454 - INFO - API is running.
+2025-03-09 13:00:59,769 - INFO - Database tables created successfully.
+2025-03-09 13:00:59,769 - INFO - Database connected successfully
+2025-03-09 13:00:59,777 - INFO - Patient 'hafiv' added successfully.
+2025-03-09 13:01:49,840 - INFO - Database tables created successfully.
+2025-03-09 13:01:49,840 - INFO - Database connected successfully
+2025-03-09 13:01:49,847 - INFO - Patient 1 updated successfully.
+2025-03-09 13:02:15,275 - INFO - Database tables created successfully.
+2025-03-09 13:02:15,276 - INFO - Database connected successfully
+2025-03-09 13:02:15,276 - INFO - Retrieved patient: 1
+2025-03-09 13:02:32,434 - INFO - Database tables created successfully.
+2025-03-09 13:02:32,434 - INFO - Database connected successfully
+2025-03-09 13:02:32,434 - WARNING - No reports found for patient 1.
+2025-03-09 13:03:00,500 - INFO - Database tables created successfully.
+2025-03-09 13:03:00,500 - INFO - Database connected successfully
+2025-03-09 13:03:00,501 - ERROR - Error submitting test for patient 1: table reports has no column named report_path
+2025-03-09 13:03:29,885 - INFO - Database tables created successfully.
+2025-03-09 13:03:29,886 - INFO - Database connected successfully
+2025-03-09 13:03:29,886 - INFO - Doctor retrieved patient: 1
+2025-03-09 13:04:13,638 - INFO - Database tables created successfully.
+2025-03-09 13:04:13,639 - INFO - Database connected successfully
+2025-03-09 13:04:13,639 - WARNING - No reports found for patient 1.
+2025-03-09 13:04:13,639 - ERROR - Error fetching reports for patient 1: 404: No reports found
+2025-03-09 13:04:52,104 - INFO - Database tables created successfully.
+2025-03-09 13:04:52,104 - INFO - Database connected successfully
+2025-03-09 13:04:52,113 - INFO - Prescription added for patient 1 by doctor 1.
+2025-03-09 13:05:13,391 - INFO - Database tables created successfully.
+2025-03-09 13:05:13,391 - INFO - Database connected successfully
+2025-03-09 13:05:13,404 - INFO - Doctor requested test 'sugar' for patient 1.
+2025-03-09 13:05:46,464 - INFO - Database tables created successfully.
+2025-03-09 13:05:46,465 - INFO - Database connected successfully
+2025-03-09 13:05:46,473 - INFO - Doctor submitted result for test 'sugar' of patient 1.
+2025-03-09 13:06:03,251 - INFO - Database tables created successfully.
+2025-03-09 13:06:03,252 - INFO - Database connected successfully
+2025-03-09 13:06:03,252 - WARNING - No reports found for patient 1.
+2025-03-09 13:06:36,839 - INFO - Database tables created successfully.
+2025-03-09 13:06:36,839 - INFO - Database connected successfully
+2025-03-09 13:06:36,849 - ERROR - Error exporting prescriptions for patient 1: No module named 'openpyxl'
+2025-03-09 13:19:25,306 - INFO - Database tables created successfully.
+2025-03-09 13:19:25,306 - INFO - Database connected successfully
+2025-03-09 13:19:38,820 - INFO - Database tables created successfully.
+2025-03-09 13:19:38,821 - INFO - Database connected successfully
+2025-03-09 13:20:31,265 - INFO - Database tables created successfully.
+2025-03-09 13:20:31,265 - INFO - Database connected successfully
+2025-03-09 13:20:39,182 - INFO - Starting FastAPI server...
+2025-03-09 13:20:40,522 - INFO - Database tables created successfully.
+2025-03-09 13:20:40,522 - INFO - Database connected successfully
+2025-03-09 13:20:47,825 - INFO - API is running.
+2025-03-09 13:22:12,187 - INFO - Database tables created successfully.
+2025-03-09 13:22:12,187 - INFO - Database connected successfully
+2025-03-09 13:22:18,573 - INFO - Starting FastAPI server...
+2025-03-09 13:22:20,089 - INFO - Database tables created successfully.
+2025-03-09 13:22:20,089 - INFO - Database connected successfully
+2025-03-09 13:25:55,591 - INFO - Database tables created successfully.
+2025-03-09 13:25:55,591 - INFO - Database connected successfully
+2025-03-09 13:26:02,531 - INFO - Starting FastAPI server...
+2025-03-09 13:26:03,945 - INFO - Database tables created successfully.
+2025-03-09 13:26:03,945 - INFO - Database connected successfully
+2025-03-09 13:26:10,668 - INFO - API is running.
+2025-03-09 13:28:24,671 - INFO - Database tables created successfully.
+2025-03-09 13:28:24,672 - INFO - Database connected successfully
+2025-03-09 13:28:31,195 - INFO - Starting FastAPI server...
+2025-03-09 13:28:32,471 - INFO - Database tables created successfully.
+2025-03-09 13:28:32,472 - INFO - Database connected successfully
+2025-03-09 13:29:11,192 - INFO - Database tables created successfully.
+2025-03-09 13:29:11,194 - INFO - Database connected successfully
+2025-03-09 13:29:11,204 - INFO - Patient 'radha' added successfully.
+2025-03-09 13:30:10,345 - INFO - Database tables created successfully.
+2025-03-09 13:30:10,345 - INFO - Database connected successfully
+2025-03-09 13:30:10,353 - INFO - Patient 2 updated successfully.
+2025-03-09 13:30:23,435 - INFO - Database tables created successfully.
+2025-03-09 13:30:23,436 - INFO - Database connected successfully
+2025-03-09 13:30:23,436 - INFO - Retrieved patient: 2
+2025-03-09 13:30:48,269 - INFO - Database tables created successfully.
+2025-03-09 13:30:48,269 - INFO - Database connected successfully
+2025-03-09 13:30:48,269 - WARNING - No reports found for patient 2.
+2025-03-09 13:31:34,277 - INFO - Database tables created successfully.
+2025-03-09 13:31:34,277 - INFO - Database connected successfully
+2025-03-09 13:31:34,278 - ERROR - Error submitting test for patient 2: table reports has no column named report_path
+2025-03-09 13:31:51,503 - INFO - Database tables created successfully.
+2025-03-09 13:31:51,504 - INFO - Database connected successfully
+2025-03-09 13:31:51,504 - INFO - Doctor retrieved patient: 2
+2025-03-09 13:32:20,171 - ERROR - Error uploading report for patient 2: argument of type 'coroutine' is not iterable
+2025-03-09 13:32:34,822 - INFO - Database tables created successfully.
+2025-03-09 13:32:34,822 - INFO - Database connected successfully
+2025-03-09 13:32:34,823 - WARNING - No reports found for patient 2.
+2025-03-09 13:32:34,823 - ERROR - Error fetching reports for patient 2: 404: No reports found
+2025-03-09 13:33:03,360 - INFO - Database tables created successfully.
+2025-03-09 13:33:03,360 - INFO - Database connected successfully
+2025-03-09 13:33:03,367 - INFO - Prescription added for patient 2 by doctor 1.
+2025-03-09 13:33:27,456 - INFO - Database tables created successfully.
+2025-03-09 13:33:27,457 - INFO - Database connected successfully
+2025-03-09 13:33:27,472 - INFO - Doctor requested test 'sugar' for patient 1.
+2025-03-09 13:33:56,556 - INFO - Database tables created successfully.
+2025-03-09 13:33:56,556 - INFO - Database connected successfully
+2025-03-09 13:33:56,556 - INFO - Doctor submitted result for test 'bp' of patient 2.
+2025-03-09 13:34:22,661 - INFO - Database tables created successfully.
+2025-03-09 13:34:22,662 - INFO - Database connected successfully
+2025-03-09 13:34:22,663 - ERROR - Error uploading report for patient 2: table reports has no column named report_path
+2025-03-09 13:34:36,601 - INFO - Database tables created successfully.
+2025-03-09 13:34:36,601 - INFO - Database connected successfully
+2025-03-09 13:34:36,601 - INFO - Retrieved 1 prescriptions for patient 2.
+2025-03-09 13:34:52,954 - INFO - Database tables created successfully.
+2025-03-09 13:34:52,954 - INFO - Database connected successfully
+2025-03-09 13:34:52,963 - ERROR - Error exporting prescriptions for patient 2: No module named 'openpyxl'
+2025-03-09 13:50:46,126 - INFO - Database tables created successfully.
+2025-03-09 13:50:46,127 - INFO - Database connected successfully
+2025-03-09 13:53:47,964 - INFO - Database tables created successfully.
+2025-03-09 13:53:47,964 - INFO - Database connected successfully
+2025-03-09 13:55:03,035 - INFO - Database tables created successfully.
+2025-03-09 13:55:03,035 - INFO - Database connected successfully
+2025-03-09 13:59:15,132 - INFO - Database tables created successfully.
+2025-03-09 13:59:15,132 - INFO - Database connected successfully
+2025-03-09 13:59:22,077 - INFO - Starting FastAPI server...
+2025-03-09 13:59:23,687 - INFO - Database tables created successfully.
+2025-03-09 13:59:23,687 - INFO - Database connected successfully
+2025-03-09 13:59:30,827 - INFO - API is running.
+2025-03-09 14:00:13,978 - INFO - Database tables created successfully.
+2025-03-09 14:00:13,979 - INFO - Database connected successfully
+2025-03-09 14:00:13,993 - INFO - Patient 'dhanu' added successfully.
+2025-03-09 14:00:46,986 - INFO - Database tables created successfully.
+2025-03-09 14:00:46,986 - INFO - Database connected successfully
+2025-03-09 14:00:46,987 - INFO - Retrieved patient: 3
+2025-03-09 14:00:59,720 - INFO - Database tables created successfully.
+2025-03-09 14:00:59,721 - INFO - Database connected successfully
+2025-03-09 14:00:59,721 - WARNING - No reports found for patient 3.
+2025-03-09 14:01:24,558 - INFO - Database tables created successfully.
+2025-03-09 14:01:24,558 - INFO - Database connected successfully
+2025-03-09 14:01:24,559 - ERROR - Error submitting test for patient 3: table reports has no column named report_path
+2025-03-09 14:04:23,312 - INFO - Database tables created successfully.
+2025-03-09 14:04:23,313 - INFO - Database connected successfully
+2025-03-09 14:04:30,289 - INFO - Starting FastAPI server...
+2025-03-09 14:04:31,660 - INFO - Database tables created successfully.
+2025-03-09 14:04:31,660 - INFO - Database connected successfully
+2025-03-09 14:04:39,421 - INFO - API is running.
+2025-03-09 14:05:02,883 - INFO - Database tables created successfully.
+2025-03-09 14:05:02,884 - INFO - Database connected successfully
+2025-03-09 14:05:02,899 - INFO - Patient 'appu' added successfully.
+2025-03-09 14:05:14,844 - INFO - Database tables created successfully.
+2025-03-09 14:05:14,844 - INFO - Database connected successfully
+2025-03-09 14:05:14,845 - INFO - Retrieved patient: 4
+2025-03-09 14:05:40,952 - INFO - Database tables created successfully.
+2025-03-09 14:05:40,953 - INFO - Database connected successfully
+2025-03-09 14:05:40,954 - ERROR - Error submitting test for patient 4: table reports has no column named report_path
+2025-03-09 14:59:33,195 - INFO - Database tables created successfully.
+2025-03-09 14:59:33,196 - INFO - Database connected successfully
+2025-03-09 15:26:53,263 - INFO - Database tables created successfully.
+2025-03-09 15:26:53,264 - INFO - Database connected successfully
+2025-03-09 15:45:45,333 - INFO - Database tables created successfully.
+2025-03-09 15:45:45,333 - INFO - Database connected successfully
+2025-03-09 15:45:52,314 - INFO - Starting FastAPI server...
+2025-03-09 15:45:53,800 - INFO - Database tables created successfully.
+2025-03-09 15:45:53,800 - INFO - Database connected successfully
+2025-03-09 15:46:00,538 - INFO - API is running.
+2025-03-09 15:47:12,786 - INFO - Database tables created successfully.
+2025-03-09 15:47:12,787 - INFO - Database connected successfully
+2025-03-09 15:47:12,788 - WARNING - No reports found for patient 1.
+2025-03-09 15:47:52,825 - INFO - Database tables created successfully.
+2025-03-09 15:47:52,825 - INFO - Database connected successfully
+2025-03-09 15:47:52,843 - INFO - Patient 'sin' added successfully.
+2025-03-09 15:48:32,192 - INFO - Database tables created successfully.
+2025-03-09 15:48:32,193 - INFO - Database connected successfully
+2025-03-09 15:48:32,194 - INFO - Retrieved patient: 5
+2025-03-09 15:48:46,156 - INFO - Database tables created successfully.
+2025-03-09 15:48:46,156 - INFO - Database connected successfully
+2025-03-09 15:48:46,157 - WARNING - No reports found for patient 5.
+2025-03-09 15:48:48,220 - INFO - Database tables created successfully.
+2025-03-09 15:48:48,220 - INFO - Database connected successfully
+2025-03-09 15:48:48,220 - WARNING - No reports found for patient 5.
+2025-03-09 15:49:15,991 - INFO - Database tables created successfully.
+2025-03-09 15:49:15,991 - INFO - Database connected successfully
+2025-03-09 15:49:15,992 - ERROR - Error submitting test for patient 5: table reports has no column named report_path
+2025-03-09 16:01:13,421 - INFO - Database tables created successfully.
+2025-03-09 16:01:13,421 - INFO - Database connected successfully
+2025-03-09 23:29:43,436 - INFO - API is running.
